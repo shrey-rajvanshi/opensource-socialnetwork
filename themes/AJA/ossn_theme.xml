@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme xmlns="http://www.opensource-socialnetwork.org/theme/v/3.0">
+    <name>AJA</name>
+    <id>AJA</id>
+    <author>WCEA</author>
+    <author_url></author_url>	
+    <description>A responsive AJA theme for OSSN.</description>
+    <license>GNU General Public License, version 2</license>    
+	<license_url>http://www.opensource-socialnetwork.org/licence</license_url>
+    <version>3.5</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>5.0</version>
+	</requires>
+</theme>
